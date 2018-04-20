@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524246096 source:c:\users\user\desktop\lab2\prj\testdriver\main.cpp
+	<iostream>
+	<ModuleAbashina.h>
+	<stdlib.h>
+

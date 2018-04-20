@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1524248007 source:c:\users\user\desktop\lab2\prj\modulesabashina\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	<clocale>
+	<math.h>
+	<sstream>
+	<cstdlib>
+
